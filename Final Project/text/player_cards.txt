@@ -1,0 +1,4 @@
+1 bloodritual
+2 firebolt
+2 freeze
+2 refocus

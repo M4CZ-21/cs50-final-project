@@ -1,0 +1,7 @@
+Brasteria game instructions
+
+You can press "Esc" anytime to quit.
+Your objective is to defeat the goblin, your opponent, using the cards that are in your hand. To play a card, simply left-click it. Some cards require you to spend resources, like health points (HP) or mana points (MP), others are cost free.
+Some cards apply damage to your opponent, some recover your own resources and allow you to draw more cards, following what is described in the card description. Lastly, some cards apply conditions, like Burning and Freezing, which have specific effects:
+- Burning: During the end of a player's draw phase, if they have any counter in the Burning condition, they receive damage equal to that counter, then the counter is reduced by one and the game continues.
+- Freezing: If a player has any counter in the Freezing condition and they try to play a card that applies damage, the damage will not be applied and the Freezing counter is reduced by one, then the game continues. This only affects the damage effect part of the card, all other effects are executed normally.
